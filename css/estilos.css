@@ -1,5 +1,5 @@
 body{
-    color: red;
+    color: blue;
     text-align: center;
 }
 .container{
@@ -8,4 +8,7 @@ body{
 #post{
     text-align: center;
     color: black;
+}
+#cabecera{
+    background-color: cadetblue;
 }
