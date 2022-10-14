@@ -2,3 +2,10 @@ body{
     color: red;
     text-align: center;
 }
+.container{
+    border: 1px solid black;
+}
+#post{
+    text-align: center;
+    color: black;
+}
